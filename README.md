@@ -7,7 +7,6 @@ A web application designed to analyze crop production data, calculate maximum an
 - [Features](#features)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Running the Project](#running-the-project)
 
 ## Features
@@ -27,61 +26,45 @@ Before you begin, ensure you have met the following requirements:
 ## Installation
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/crop-production-analysis.git
+   ```
+   git clone https://github.com/karunakar31/Manuficproject.git
+   ```
 
 2. Navigate to the project directory:
 
-
-  cd crop-production-analysis
+   ```
+   cd Manuficproject
+   ```
 
 3. Install the dependencies:
 
-bash
+   ```
+   npm install
+   ```
+   or if you are using Yarn:
 
-npm install
-or if you are using Yarn:
+   ```
+   yarn install
+   ```
 
-bash
+## Running the Project
 
-yarn install
+1. To build and run the project for production, use the following commands:
 
-
-4. Usage
-
-To use this project, follow these steps:
-
-Start the Development Server:
-
-npm start
-
-or if you are using Yarn:
-
-yarn start
-
-Open your browser and navigate to http://localhost:3000 to view the application.
-
-
-5. Running the Project
-
-To build and run the project for production, use the following commands:
-
-Build the Project:
-
-npm run build
-
-or if you are using Yarn:
-
-bash
-yarn build
-Start the Production Server:
-
-bash
-
-npm run dev
-or if you are using Yarn:
-
-bash
-
-yarn dev
-
+   Build the Project:
+   ```
+   npm run build
+   ```
+   or if you are using Yarn:
+   ```
+   yarn build
+   ```
+   
+2. Start the Production Server:
+   ```
+   npm run dev
+   ```
+   or if you are using Yarn:
+   ```
+   yarn dev
+   ```
