@@ -8,6 +8,7 @@ A web application designed to analyze crop production data, calculate maximum an
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Running the Project](#running-the-project)
+- [Screenshots](#screenshots)
 
 ## Features
 
@@ -68,3 +69,7 @@ Before you begin, ensure you have met the following requirements:
    ```
    yarn dev
    ```
+## Screenshots
+
+
+![Screenshot_12-11-2024_154559_localhost](https://github.com/user-attachments/assets/1ea9e1d8-9752-444b-b231-affb1fc5c7b9)
