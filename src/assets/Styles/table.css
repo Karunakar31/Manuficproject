@@ -1,0 +1,29 @@
+#root {
+    font-family: "Roboto", sans-serif;
+}
+
+.table-container {
+    padding: 20px;
+    background-color: #ffffff; /* Light background for contrast */
+    
+  }
+  
+  .table-header {
+    font-weight: bolder; /* Primary color for header */
+  }
+  
+  .table-header th {
+    font-size: 0.90rem;
+    width: 11rem;
+    padding: 10px; /* Padding for header cells */
+    border: 2px solid #0b0b0b; /* Border for header cells */
+  }
+  .table-body {
+    border-collapse:collapse ;
+  }
+  .table-body td {
+
+    padding: 10px; /* Padding for body cells */
+    border: 2px solid #060707; /* Border for body cells */
+    text-align: center;
+  }
