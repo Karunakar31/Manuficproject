@@ -71,5 +71,14 @@ Before you begin, ensure you have met the following requirements:
    ```
 ## Screenshots
 
+   Table 1:
 
-![Screenshot_12-11-2024_154559_localhost](https://github.com/user-attachments/assets/1ea9e1d8-9752-444b-b231-affb1fc5c7b9)
+   ![Screenshot_12-11-2024_1545559_localhost](https://github.com/user-attachments/assets/e5a3ba9f-856e-41e4-bdcf-8711b35522b6)
+
+   Table 2:
+
+   ![Screenshot_12-11-2024_15544_localhost](https://github.com/user-attachments/assets/29dd2161-bd00-4345-870d-3c3f1414c84a)
+
+
+
+
